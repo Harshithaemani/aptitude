@@ -1,1 +1,1 @@
-# aptitude
+THINK WITHOUT INK

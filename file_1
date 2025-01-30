@@ -1,0 +1,50 @@
+PERCENTAGES
+--------------------
+100%   --> 1
+75%    --> 3/4
+50%    --> 1/2
+33.33% --> 1/3
+25%    --> 1/4
+20%    --> 1/5
+16.66% --> 1/6
+14.28% --> 1/7
+12.50% --> 1/8
+11.11% --> 1/9
+10%    --> 1/10
+5%     --> 1/20
+4%     --> 1/25
+3%     --> 1/33.33
+2%     --> 1/50
+1%     --> 1/100
+
+
+PERCENTAGES BASIC CONCEPT
+
+--> There are few types we have categorised, they are
+
+1) a % b - both values ends with zero's
+Example: 
+Method - 1 (shortcut)
+50 % 60 --> cancel 2 zero's --> 5 X 6 = 30
+Method - 2 (regular process)
+50 % 60 --> (50/100) X 60 --> (1/2) X 60 --> 30
+
+2) a % b - any one of the values end with zero 
+Example:
+Method - 1 (shortcut)
+Example - 1: 30 % 42 --> (30/100) X 42 --> (3/10) X 42 --> 3 X 4.2 --> 12.6
+Example - 2: 70 % 82 --> (70/100) X 82 --> (7/10) X (80 + 2) --> (80 X 7 + 2 X 7)/10 --> 574/10 --> 57.4
+
+3) a % b - no value ends with zero
+We have to use multiplication with vedic math 
+
+4) a % b - one of the value is in decimal (33.33% of 66)
+Example:
+Method - 1 (shortcut)
+Example - 1: 33.33 % 93 --> (1/3) X 93 --> 31  ----------->(33.33% = 1/3)
+Example - 2: 62.5 % 64 --> (50% + 12.5%) X 64 --> (1/2 + 1/8) X 64 --> 32 + 8 --> 40
+
+5) a % b - one of the value is 3 digit number (64% of 150)
+Example:
+Method - 1 (shortcut)
+84 % 150 --> Here a % b = b % a --> 150 % 84 --> (100% + 50%) X 84 --> (1 + 1/2) X 84 --> 84 + 42 --> 126
